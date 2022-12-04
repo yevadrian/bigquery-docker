@@ -3,7 +3,7 @@
 ##### Modify "key.json" according to your Google service account credentials
 > nano key.json
 
-##### Modify "query.sql" according to your needs
+##### Modify "query.sql" according to your query needs
 > nano query.sql
 
 ##### Create Google Cloud SDK container with Docker Compose
