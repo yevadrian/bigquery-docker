@@ -12,7 +12,7 @@
 ##### Install required Python packages
 > sudo docker exec -it gcloud sh -c "pip install google-cloud-bigquery && pip install sqlparse"
 
-##### Run the script to upload a remote file
+##### Run the Python script to upload query results to your Google BigQuery
 > sudo docker exec -it gcloud sh -c "python3 main.py [DATASET] [TABLE]"
 
 ##### Example command
