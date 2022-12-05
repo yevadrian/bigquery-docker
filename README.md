@@ -1,5 +1,8 @@
 ### Upload query results to Google BigQuery table with Google Cloud SDK on Docker
 
+##### Clone this repository and enter the directory
+> git clone https://github.com/yevadrian/bigquery-docker && cd bigquery-docker
+
 ##### Modify "key.json" according to your Google service account credentials
 > nano key.json
 
